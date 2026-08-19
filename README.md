@@ -256,17 +256,12 @@ A full-stack platform connecting recruiters and students through job listings, a
 # `github.log`
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Simran-gorad&show_icons=true&hide_border=true&bg_color=0D0B12&title_color=D98FA8&text_color=F4EDF3&icon_color=B9A7E8"
-    alt="Simran's GitHub statistics"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simran-gorad&layout=compact&hide_border=true&bg_color=0D0B12&title_color=D98FA8&text_color=F4EDF3"
-    alt="Simran's most used languages"
-  />
+  <a href="https://github.com/Simran-gorad">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Simran-gorad&bg_color=0D0B12&color=F4EDF3&line=D98FA8&point=B9A7E8&area=true&hide_border=true"
+      alt="Simran's GitHub activity graph"
+    />
+  </a>
 </p>
 
 <details>
