@@ -176,7 +176,7 @@ A live awards platform with real-time voting, QR-based participation, admin cont
 
 `JavaScript` `Firebase` `Realtime Database`
 
-<a href="../be-cse-awards">→ view project</a>
+<a href="https://github.com/Simran-gorad/be-cse-awards">→ view project</a>
 
 </td>
 
