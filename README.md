@@ -146,7 +146,7 @@ A desktop companion combining an interactive virtual pet with voice-driven syste
 
 `JavaScript` `Node.js` `Electron`
 
-<a href="../Pluto-Desktop-Companion">→ view project</a>
+<a href="https://github.com/Simran-gorad/Pluto-Desktop-Companion">→ view project</a>→ view project</a>
 
 </td>
 
@@ -160,7 +160,7 @@ A two-player chase game featuring multiple levels, sprite animation, obstacles, 
 
 `Java` `Sprite Animation` `Game Logic`
 
-<a href="../Java-2D-Game">→ view project</a>
+<a href="https://github.com/Simran-gorad/Pluto-Desktop-Companion">→ view project</a>
 
 </td>
 </tr>
