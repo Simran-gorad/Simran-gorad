@@ -136,19 +136,45 @@ AI-assisted development · LLM applications · modern backend architecture
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<table>
+<tr>
+<td width="42%" valign="middle">
 
-### 🪐 Pluto
-
-**Desktop Companion**
-
-A desktop companion combining an interactive virtual pet with voice-driven system controls and AI-assisted interaction.
-
-`JavaScript` `Node.js` `Electron`
-
-<a href="https://github.com/Simran-gorad/Pluto-Desktop-Companion">→ view project</a>
+<a href="https://github.com/Simran-gorad/Pluto-Desktop-Companion">
+  <img
+    src="./assets/projects/pluto.png"
+    width="100%"
+    alt="Pluto Desktop Companion"
+  >
+</a>
 
 </td>
+
+<td width="58%" valign="middle">
+
+<h3>🪐 Pluto — Desktop Companion</h3>
+
+<p>
+A little desktop companion built around a physical pet-robot concept,
+with an AI-assisted voice interaction layer and system-level controls.
+</p>
+
+<p>
+  <code>JavaScript</code>
+  <code>Node.js</code>
+  <code>Electron</code>
+  <code>DeepSeek API</code>
+</p>
+
+<p>
+  <a href="https://github.com/Simran-gorad/Pluto-Desktop-Companion">
+    → view project
+  </a>
+</p>
+
+</td>
+</tr>
+</table>
 
 <td width="50%" valign="top">
 
