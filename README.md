@@ -1,34 +1,25 @@
-# ✦ SIMRAN GORAD
+<div align="center">
 
-<p align="center">
-  <img src="./assets/hero-cat.gif" width="180" alt="A cute cat coding at a terminal">
-</p>
+# ✦ Simran Gorad
 
-<p align="center">
-  <samp>if it can be built, I'll probably try.</samp>
-</p>
+<img src="./assets/hero-cat.gif" width="230" alt="A cute cat coding at a terminal">
 
-<p align="center">
-  <sub>Obsessed with the Art of building questionable stuff.</sub>
-</p>
+### `CS engineer` · `builder of delightfully questionable things` · `Mumbai, India`
 
-<p align="center">
-  <a href="https://github.com/Simran-gorad">
-    <img src="./assets/icons/github.svg" width="22" alt="GitHub">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/simran-gorad-87b07a241/">
-    <img src="./assets/icons/linkedin.svg" width="22" alt="LinkedIn">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/simrangorad/">
-    <img src="./assets/icons/leetcode.svg" width="22" alt="LeetCode">
-  </a>
-</p>
+<a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=D98FA8&center=true&vCenter=true&width=580&lines=I+turn+%22what+if%3F%22+into+working+software.;Building%2C+learning%2C+and+opening+one+tab+too+many.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=D98FA8&center=true&vCenter=true&width=580&lines=I+turn+%22what+if%3F%22+into+working+software.;Building%2C+learning%2C+and+opening+one+tab+too+many." alt="I turn what if into working software">
+</a>
 
-<p align="center">
-  <sub>Ossu! ♡ &nbsp; Welcome to my little corner of the internet.</sub>
-</p>
+<br>
+
+<a href="https://github.com/Simran-gorad"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/simran-gorad-87b07a241/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://leetcode.com/u/simrangorad/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+
+<sub>Ossu! ♡ Welcome to my little corner of the internet.</sub>
+
+</div>
+
 
 ---
 
@@ -136,9 +127,8 @@ AI-assisted development · LLM applications · modern backend architecture
 
 <table>
 <tr>
-<table>
-<tr>
-<td width="42%" valign="middle">
+
+<td width="50%" valign="top">
 
 <a href="https://github.com/Simran-gorad/Pluto-Desktop-Companion">
   <img
@@ -148,35 +138,19 @@ AI-assisted development · LLM applications · modern backend architecture
   >
 </a>
 
-</td>
+### 🪐 Pluto — Desktop Companion
 
-<td width="58%" valign="middle">
+A little desktop companion built around a physical pet-robot concept, with an AI-assisted voice interaction layer and system-level controls.
 
-<h3>🪐 Pluto — Desktop Companion</h3>
+`JavaScript` `Node.js` `Electron` `DeepSeek API`
 
-<p>
-A little desktop companion built around a physical pet-robot concept,
-with an AI-assisted voice interaction layer and system-level controls.
-</p>
-
-<p>
-  <code>JavaScript</code>
-  <code>Node.js</code>
-  <code>Electron</code>
-  <code>DeepSeek API</code>
-</p>
-
-<p>
-  <a href="https://github.com/Simran-gorad/Pluto-Desktop-Companion">
-    → view project
-  </a>
-</p>
+<a href="https://github.com/Simran-gorad/Pluto-Desktop-Companion">→ view project</a>
 
 </td>
-</tr>
-</table>
 
 <td width="50%" valign="top">
+
+<!-- CHOR POLICE IMAGE WILL GO HERE -->
 
 ### 🎮 Chor Police
 
@@ -189,10 +163,14 @@ A two-player chase game featuring multiple levels, sprite animation, obstacles, 
 <a href="https://github.com/Simran-gorad/Java-2D-Game">→ view project</a>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
+
+<!-- BE-CSE AWARDS IMAGE WILL GO HERE -->
 
 ### 🏆 BE-CSE Awards
 
@@ -208,6 +186,8 @@ A live awards platform with real-time voting, QR-based participation, admin cont
 
 <td width="50%" valign="top">
 
+<!-- 99HECTORS IMAGE WILL GO HERE -->
+
 ### 🏠 99Hectors
 
 **Real Estate Platform**
@@ -221,10 +201,14 @@ A team-built real-estate web platform inspired by large property marketplaces.
 <a href="https://github.com/TaherAfsar/99Hectors">→ view project</a>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
+
+<!-- RAREINK IMAGE WILL GO HERE -->
 
 ### 🖋️ RareInk
 
@@ -242,6 +226,8 @@ A team project exploring digital collectibles, marketplace interactions and bloc
 
 <td width="50%" valign="top">
 
+<!-- CAMPUS PLACEMENT IMAGE WILL GO HERE -->
+
 ### 🎓 Campus Placement
 
 **Recruitment Platform**
@@ -250,12 +236,12 @@ A full-stack platform connecting recruiters and students through job listings, a
 
 `MongoDB` `Express` `React` `Node.js`
 
-<a href="../Campus-Placement-Project">→ view project</a>
+<a href="https://github.com/Simran-gorad/Campus-Placement-Project">→ view project</a>
 
 </td>
+
 </tr>
 </table>
-
 ---
 
 ## `milestones.log`
@@ -266,6 +252,9 @@ A full-stack platform connecting recruiters and students through job listings, a
 
 [✓] VP Industrial Hackathon
     └─ 🥇 Winner
+
+[✓] Building the Gateway - Xavier's College Hackathon
+    └─ 🥈 Winner
 
 [✓] HackX
     └─ National Level · Top 8
