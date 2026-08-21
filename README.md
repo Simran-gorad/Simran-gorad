@@ -7,7 +7,7 @@
 ### `CS engineer` · `builder of delightfully questionable things` · `Mumbai, India`
 
 <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=D98FA8&center=true&vCenter=true&width=580&lines=I+turn+%22what+if%3F%22+into+working+software.;Building%2C+learning%2C+and+opening+one+tab+too+many.">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=D98FA8&center=true&vCenter=true&width=580&lines=I+turn+%22what+if%3F%22+into+working+software.;Building%2C+learning%2C+and+opening+one+tab+too+many." alt="I turn what if into working software">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=D98FA8&center=true&vCenter=true&width=580&lines=I+turn+%22what+if%3F%22+into+working+software.;Building%2C+learning%2C+and+opening+one+tab+too+many+times" alt="I turn what if into working software">
 </a>
 
 <br>
