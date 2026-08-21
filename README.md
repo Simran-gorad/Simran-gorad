@@ -253,7 +253,7 @@ A full-stack platform connecting recruiters and students through job listings, a
 [✓] VP Industrial Hackathon
     └─ 🥇 Winner
 
-[✓] Building the Gateway - Xavier's College Hackathon
+[✓] XIE Industrial Hackathon
     └─ 🥈 Winner
 
 [✓] HackX
