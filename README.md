@@ -246,25 +246,9 @@ A full-stack platform connecting recruiters and students through job listings, a
 
 ## `milestones.log`
 
-```text
-[✓] IEEE Hackathon
-    └─ Finalist
-
-[✓] VP Industrial Hackathon
-    └─ 🥇 Winner
-
-[✓] XIE Industrial Hackathon
-    └─ 🥈 Winner
-
-[✓] HackX
-    └─ National Level · Top 8
-
-[✓] Techshala Cyber Security Domain
-    └─ Vice President · 2024–2025
-
-[✓] XIE Student Council
-    └─ Joint Technical Secretary · 2024–2025
-```
+<p align="center">
+  <img src="./assets/milestone-map.svg" width="100%" alt="A glowing constellation route connecting Simran's milestones">
+</p>
 
 ---
 
