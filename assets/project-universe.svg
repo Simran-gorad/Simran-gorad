@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">Project Lab mission index</title>
+  <desc id="desc">Six small project worlds orbit in a subtle animated star field.</desc>
+  <defs>
+    <radialGradient id="bg"><stop stop-color="#281a2a"/><stop offset=".58" stop-color="#17121c"/><stop offset="1" stop-color="#0d0b12"/></radialGradient>
+    <radialGradient id="pluto" cx="30%" cy="25%"><stop stop-color="#f4edf3"/><stop offset=".17" stop-color="#efb0c5"/><stop offset=".44" stop-color="#d98fa8"/><stop offset="1" stop-color="#5a354c"/></radialGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="4" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="330" rx="24" fill="url(#bg)"/>
+  <g fill="#f4edf3" opacity=".5"><circle cx="70" cy="86" r="1"/><circle cx="168" cy="130" r="1.4"/><circle cx="269" cy="58" r="1"/><circle cx="384" cy="107" r="1"/><circle cx="490" cy="72" r="1.3"/><circle cx="622" cy="113" r="1"/><circle cx="764" cy="58" r="1.4"/><circle cx="873" cy="120" r="1"/><circle cx="1034" cy="67" r="1.2"/><circle cx="1134" cy="138" r="1"/><circle cx="92" cy="259" r="1"/><circle cx="360" cy="266" r="1"/><circle cx="683" cy="273" r="1.3"/><circle cx="977" cy="251" r="1"/></g>
+  <g fill="#d98fa8" opacity=".45"><circle cx="220" cy="205" r="1"/><circle cx="536" cy="234" r="1"/><circle cx="812" cy="211" r="1"/><circle cx="1085" cy="232" r="1"/></g>
+  <g transform="translate(38 38)" font-family="monospace"><text fill="#d98fa8" font-size="16" letter-spacing="3">PROJECT_LAB.EXE</text><text y="32" fill="#f4edf3" font-size="22" letter-spacing="1">mission index</text><text y="56" fill="#b9a7e8" font-size="13">six small worlds, one growing archive</text></g>
+  <g fill="none" stroke="#b9a7e8" stroke-opacity=".28"><ellipse cx="670" cy="185" rx="475" ry="67" transform="rotate(-4 670 185)"/><ellipse cx="720" cy="165" rx="285" ry="100" transform="rotate(15 720 165)"/></g>
+  <g font-family="monospace" text-anchor="middle">
+    <g transform="translate(353 198)"><circle r="15" fill="#795394" filter="url(#glow)"><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="7s" repeatCount="indefinite"/></circle><text y="34" fill="#b9a7e8" font-size="11">RAREINK</text></g>
+    <g transform="translate(509 159)"><circle r="25" fill="url(#pluto)" filter="url(#glow)"><animate attributeName="r" values="25;27;25" dur="5.5s" repeatCount="indefinite"/></circle><ellipse rx="38" ry="10" fill="none" stroke="#f4edf3" stroke-opacity=".72" transform="rotate(-18)"/><text y="51" fill="#f4edf3" font-size="11">PLUTO</text></g>
+    <g transform="translate(667 211)"><circle r="17" fill="#b89149" filter="url(#glow)"><animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0" dur="7.8s" begin="-.5s" repeatCount="indefinite"/></circle><text y="36" fill="#b9a7e8" font-size="11">AWARDS</text></g>
+    <g transform="translate(817 151)"><circle r="14" fill="#668d69" filter="url(#glow)"><animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0" dur="6.6s" begin="-2s" repeatCount="indefinite"/></circle><text y="32" fill="#b9a7e8" font-size="11">99H</text></g>
+    <g transform="translate(946 204)"><circle r="17" fill="#528b8d" filter="url(#glow)"><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="7.2s" begin="-1s" repeatCount="indefinite"/></circle><text y="36" fill="#b9a7e8" font-size="11">CAMPUS</text></g>
+    <g transform="translate(1064 132)"><circle r="11" fill="#6f76c1" filter="url(#glow)"><animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0" dur="6.2s" begin="-3s" repeatCount="indefinite"/></circle><text y="29" fill="#b9a7e8" font-size="11">CHOR</text></g>
+  </g>
+</svg>
