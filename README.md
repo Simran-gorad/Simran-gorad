@@ -121,83 +121,68 @@ AI-assisted development · LLM applications · modern backend architecture
 
 ---
 
-# `PROJECT LAB.exe`
+## `PROJECT LAB.exe`
 
 <p align="center">
-  <img src="./assets/project-universe.svg" width="100%" alt="Six small project worlds orbiting in a mission index">
+  <img src="./assets/project-universe-v2.svg" width="100%" alt="Six illustrated project worlds orbiting in a mission index">
 </p>
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <sub><code>MISSION 01</code></sub>
-      <h3>Pluto — Desktop Companion</h3>
-      A little desktop companion built around a physical pet-robot concept, with AI-assisted voice interaction and system-level controls.
-      <br><br>
-      <code>JavaScript</code> <code>Node.js</code> <code>Electron</code>
-      <br><br>
-      <a href="https://github.com/Simran-gorad/Pluto-Desktop-Companion">→ OPEN MISSION</a>
-    </td>
-    <td width="50%" valign="top">
-      <sub><code>MISSION 02</code></sub>
-      <h3>Chor Police</h3>
-      A two-player chase game with multiple levels, sprite animation, obstacles, health mechanics, timed escape routes, and sound effects.
-      <br><br>
-      <code>Java</code> <code>Sprite Animation</code> <code>Game Logic</code>
-      <br><br>
-      <a href="https://github.com/Simran-gorad/Java-2D-Game">→ OPEN MISSION</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <sub><code>MISSION 03</code></sub>
-      <h3>BE-CSE Awards</h3>
-      A live awards platform with real-time voting, QR-based participation, admin controls, surge detection, and winner reveals.
-      <br><br>
-      <code>JavaScript</code> <code>Firebase</code> <code>Realtime Database</code>
-      <br><br>
-      <a href="https://github.com/Simran-gorad/be-cse-awards">→ OPEN MISSION</a>
-    </td>
-    <td width="50%" valign="top">
-      <sub><code>MISSION 04</code></sub>
-      <h3>99Hectors</h3>
-      A team-built real-estate web platform inspired by large property marketplaces.
-      <br><br>
-      <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
-      <br><br>
-      <a href="https://github.com/TaherAfsar/99Hectors">→ OPEN MISSION</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <sub><code>MISSION 05</code></sub>
-      <h3>RareInk</h3>
-      A team project exploring digital collectibles, marketplace interactions, and blockchain-based ownership.
-      <br><br>
-      <code>Web3</code> <code>Marketplace</code> <code>Team Project</code>
-      <br><br>
-      <a href="https://github.com/Simran-gorad/RareInk">→ OPEN MISSION</a>
-    </td>
-    <td width="50%" valign="top">
-      <sub><code>MISSION 06</code></sub>
-      <h3>Campus Placement</h3>
-      A full-stack platform connecting recruiters and students through job listings, applications, and placement workflows.
-      <br><br>
-      <code>MongoDB</code> <code>Express</code> <code>React</code> <code>Node.js</code>
-      <br><br>
-      <a href="https://github.com/Simran-gorad/Campus-Placement-Project">→ OPEN MISSION</a>
-    </td>
-  </tr>
+  <thead>
+    <tr><th colspan="2" align="left">MISSION INDEX // SELECT A DESTINATION</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="50%" valign="top">
+        <sub><code>01</code></sub><br>
+        <strong>Pluto — Desktop Companion</strong><br><br>
+        <sub>AI-assisted voice interaction and system-level controls.</sub><br><br>
+        <code>JavaScript</code> <code>Node.js</code> <code>Electron</code><br><br>
+        <a href="https://github.com/Simran-gorad/Pluto-Desktop-Companion">OPEN MISSION →</a>
+      </td>
+      <td width="50%" valign="top">
+        <sub><code>02</code></sub><br>
+        <strong>Chor Police</strong><br><br>
+        <sub>A two-player chase game with levels, sprite animation, and timed escapes.</sub><br><br>
+        <code>Java</code> <code>Sprite Animation</code> <code>Game Logic</code><br><br>
+        <a href="https://github.com/Simran-gorad/Java-2D-Game">OPEN MISSION →</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <sub><code>03</code></sub><br>
+        <strong>BE-CSE Awards</strong><br><br>
+        <sub>Live awards voting with QR participation, admin controls, and winner reveals.</sub><br><br>
+        <code>JavaScript</code> <code>Firebase</code> <code>Realtime DB</code><br><br>
+        <a href="https://github.com/Simran-gorad/be-cse-awards">OPEN MISSION →</a>
+      </td>
+      <td width="50%" valign="top">
+        <sub><code>04</code></sub><br>
+        <strong>99Hectors</strong><br><br>
+        <sub>A team-built real-estate web platform inspired by property marketplaces.</sub><br><br>
+        <code>HTML</code> <code>CSS</code> <code>JavaScript</code><br><br>
+        <a href="https://github.com/TaherAfsar/99Hectors">OPEN MISSION →</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <sub><code>05</code></sub><br>
+        <strong>RareInk</strong><br><br>
+        <sub>A digital collectibles marketplace exploring Web3 ownership.</sub><br><br>
+        <code>Web3</code> <code>Marketplace</code> <code>Team Project</code><br><br>
+        <a href="https://github.com/Simran-gorad/RareInk">OPEN MISSION →</a>
+      </td>
+      <td width="50%" valign="top">
+        <sub><code>06</code></sub><br>
+        <strong>Campus Placement</strong><br><br>
+        <sub>A full-stack platform connecting recruiters and students.</sub><br><br>
+        <code>MongoDB</code> <code>Express</code> <code>React</code> <code>Node.js</code><br><br>
+        <a href="https://github.com/Simran-gorad/Campus-Placement-Project">OPEN MISSION →</a>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
-
-## `milestones.log`
-
-<p align="center">
-  <img src="./assets/milestone-map.svg" width="100%" alt="A glowing constellation route connecting Simran's milestones">
-</p>
-
----
 
 # `github.log`
 
