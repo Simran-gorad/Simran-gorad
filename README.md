@@ -184,14 +184,20 @@ AI-assisted development · LLM applications · modern backend architecture
 </table>
 
 
-# `github.log`
+
+## `milestones.log`
+
+<p align="center">
+  <img src="./assets/milestone-map.svg" width="100%" alt="A glowing constellation route connecting Simran's milestones">
+</p>
+
+---
+
+## `github.log`
 
 <p align="center">
   <a href="https://github.com/Simran-gorad">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Simran-gorad&bg_color=0D0B12&color=F4EDF3&line=D98FA8&point=B9A7E8&area=true&hide_border=true"
-      alt="Simran's GitHub activity graph"
-    />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Simran-gorad&amp;bg_color=0D0B12&amp;color=F4EDF3&amp;line=D98FA8&amp;point=B9A7E8&amp;area=true&amp;hide_border=true" alt="Simran's GitHub activity graph">
   </a>
 </p>
 
